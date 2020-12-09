@@ -1,5 +1,3 @@
-# 39 Degreesc Coding Test
-
 # Coding Test Guidelines
 
 (주)삼십구도씨 개발자 채용을 위한 코딩 과제 안내입니다.
