@@ -22,12 +22,14 @@
 
         consolidated_weather 필드의 하위 필드를 사용해서 각 날씨를 구성해 주세요.
 
+
 |name|desc|
 |:--:|:--:|:--:|--:|
 |weather_state_name|날씨 요약|
 |weather_state_abbr|아이콘 이미지 정보|
 |the_temp|현재 날씨|
 |humidity|습도|
+
 
 # 개발 환경
 
