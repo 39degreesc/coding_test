@@ -8,7 +8,7 @@
 
 # 요구사항
 
-[view?usp=sharing](https://drive.google.com/file/d/17CXfMH36M9Wk2ktUpvnlZzi8He67Msj3/view?usp=sharing)
+[LINK](https://drive.google.com/file/d/17CXfMH36M9Wk2ktUpvnlZzi8He67Msj3/view?usp=sharing)
 
 - 위 영상을 참고해서 지역별 날씨를 보여주는 어플리케이션을 동일하게 구현해주세요.
 - 지역 이름에 ***"se"***가 포함된 지역을 대상으로 오늘, 내일 날씨를 보여줍니다.
